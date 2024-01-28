@@ -2,9 +2,9 @@
 /* eslint-disable no-plusplus */
 
 /*
-  Time - O(max(n,m))
-  Space - O(max(n,m))
-*/
+ * Time - O(max(n,m))
+ * Space - O(max(n,m))
+ */
 
 function addBinary(str1, str2) {
   const result = []; // To store the binary sum
